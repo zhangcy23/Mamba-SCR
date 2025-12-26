@@ -1,9 +1,6 @@
-#训练函数
 import shutil
 import time
-
-
-# from Unet import UNet
+from Unet import UNet
 # from mamba_dwt_new import mamba_scr
 # from mamba_0111 import mamba_scr
 from mamba_0113 import mamba_scr
@@ -17,8 +14,6 @@ device=torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 from utils import train_model,get_loss_train,Loss_SAM,get_loss_train1
 
 # from mamba_cr import mamba_cr
-# from 测试集预测 import test_pre
-
 # from prefetch_generator import BackgroundGenerator
 
 
