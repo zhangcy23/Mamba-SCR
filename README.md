@@ -1,4 +1,4 @@
-# RTFormer:Radiative Transfer Model-Coupled Transformer for Cloud Removal in Optical Remote Sensing Imagery
+Mamba-SCR: A frequency-domain enhanced state space model for cloud removal with SAR and optical data fusion
 We have proposed a new cloud removal model\
 ![network](img/model.png)\
 Example of cloud removal in this model\
