@@ -6,5 +6,5 @@ Example of cloud removal in this model\
 Model ablation results:\
 ![Example of results](img/Ablation.png)\
 #data sets
-The dataset used in the paper can be found at [SEN12MS-CR](https://mediatum.ub.tum.de/1554803)\
+The dataset used in the paper can be found at [SEN12MS-CR](https://mediatum.ub.tum.de/1554803)
 
