@@ -1,7 +1,7 @@
 Mamba-SCR: A frequency-domain enhanced state space model for cloud removal with SAR and optical data fusion
 
 We have proposed a new cloud removal model\
-![network](img/model.png)\
+![network](img/Mmaba-SCR.png)\
 Example of cloud removal in this model\
 ![img](img/img1.png)\
 Model ablation results:\
